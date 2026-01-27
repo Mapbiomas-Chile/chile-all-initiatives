@@ -10,7 +10,7 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 - [LULC – Collection 2](https://github.com/Mapbiomas-Chile/MB-Chile-LULC-Col02) – Land use and land cover mapping (Collection 2)
 
 ### Fire (Fuego)
-- [fire](./fire) – Burned area, severity, and fire dynamics
+- [FIRE - Collection 1]((https://github.com/F-Lepin/MB-Fire-Chile)) – Burned area mapping (Collection 1)
 
 ### Water (Agua)
 - [water](./water) – Surface water mapping and dynamics
