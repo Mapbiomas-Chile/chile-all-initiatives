@@ -6,28 +6,31 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 
 ## 🗺️ MapBiomas Chile Products
 
-- LULC (Land Use and Land Cover)  
-- Fire (Fuego)  
-- Water (Agua)  
-- Glaciers (Glaciares)  
+### LULC (Land Use and Land Cover)
+- [lulc](./lulc) – Land use and land cover mapping
+
+### Fire (Fuego)
+- [fire](./fire) – Burned area, severity, and fire dynamics
+
+### Water (Agua)
+- [water](./water) – Surface water mapping and dynamics
+
+### Glaciers (Glaciares)
+- [glaciers](./glaciers) – Glacier extent and change
 
 ---
 
 ## 🌱 Cross-Cutting Themes
 
-- Agriculture  
-- Forest Plantation  
-- Native Forest  
- 
+- [agriculture](./themes/agriculture) – Agriculture-related workflows
+- [forest-plantation](./themes/forest-plantation) – Plantation-related workflows
+- [native-forest](./themes/native-forest) – Native forest workflows
+
 ---
 
-## 📦 Repositories
+## 🧰 Shared Utilities
 
-- [lulc](./lulc) – Land use and land cover mapping  
-- [fire](./fire) – Burned area, severity, and fire dynamics  
-- [water](./water) – Surface water mapping and dynamics  
-- [glaciers](./glaciers) – Glacier extent and change  
-- [utils](./utils) – Shared utilities and helper scripts  
+- [utils](./utils) – Shared utilities and helper scripts
 
 ---
 
@@ -40,3 +43,4 @@ This repository is maintained by the MapBiomas Chile team and contains open and 
 ## 📄 License
 
 Distributed under the MIT License.
+
