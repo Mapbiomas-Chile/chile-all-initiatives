@@ -7,7 +7,7 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 ## 🗺️ MapBiomas Chile Products
 
 ### LULC (Land Use and Land Cover)
-- [lulc](./lulc) – Land use and land cover mapping
+- [lulc collection 2](./lulc-collection2) – Land use and land cover mapping (Collection 2)
 
 ### Fire (Fuego)
 - [fire](./fire) – Burned area, severity, and fire dynamics
