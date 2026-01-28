@@ -35,7 +35,7 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 
 - [agriculture](./themes/agriculture) – Agriculture-related workflows  
 - [forest-plantation](./themes/forest-plantation) – Plantation-related workflows  
-- [native-forest](./themes/native-forest) – Native forest workflows  
+- [urban](./themes/native-forest) – Native forest workflows  
 
 ---
 
