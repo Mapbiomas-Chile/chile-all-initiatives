@@ -1,4 +1,7 @@
-<img width="800" height="800" alt="1764164981181" src="https://github.com/user-attachments/assets/4714c289-c52a-4c01-8982-7a64e1b038db" />
+<p align="center">
+  <img width="280" src="https://github.com/user-attachments/assets/4714c289-c52a-4c01-8982-7a64e1b038db" />
+</p>
+
 # CL Chile
 
 Explore the repositories, scripts, and tools developed by the MapBiomas Chile team for analyzing and monitoring land use and environmental dynamics in Chile.
