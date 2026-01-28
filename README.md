@@ -4,6 +4,14 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 
 ---
 
+## 🔗 Project Resources
+
+- 🌐 [Plataforma MapBiomas Chile — Resultados LULC](https://plataforma.mapbiomas.org/coverage/coverage_lclu?t[regionKey]=chile&t[ids][]=20-1-1&t[divisionCategoryId]=2&tl[id]=1&tl[themeKey]=coverage&tl[subthemeKey]=coverage_lclu&tl[pixelValues][]=59&tl[pixelValues][]=60&tl[pixelValues][]=67&tl[pixelValues][]=11&tl[pixelValues][]=12&tl[pixelValues][]=29&tl[pixelValues][]=63&tl[pixelValues][]=66&tl[pixelValues][]=9&tl[pixelValues][]=15&tl[pixelValues][]=18&tl[pixelValues][]=33&tl[pixelValues][]=34&tl[pixelValues][]=27&tl[pixelValues][]=23&tl[pixelValues][]=24&tl[pixelValues][]=25&tl[pixelValues][]=61&tl[legendKey]=default&tl[year]=2024)
+
+- 🌎 [MapBiomas Network](https://chile.mapbiomas.org)
+
+---
+
 ## 🗺️ MapBiomas Chile Products
 
 ### LULC (Land Use and Land Cover)
@@ -22,9 +30,9 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 
 ## 🌱 Cross-Cutting Themes
 
-- [agriculture](./themes/agriculture) – Agriculture-related workflows
-- [forest-plantation](./themes/forest-plantation) – Plantation-related workflows
-- [native-forest](./themes/native-forest) – Native forest workflows
+- [agriculture](./themes/agriculture) – Agriculture-related workflows  
+- [forest-plantation](./themes/forest-plantation) – Plantation-related workflows  
+- [native-forest](./themes/native-forest) – Native forest workflows  
 
 ---
 
@@ -40,7 +48,4 @@ This repository is maintained by the MapBiomas Chile team and contains open and 
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License.
 
