@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/4714c289-c52a-4c01-8982-7a64e1b038db" width="200" align="left"/>
 
-# CL Chile
+CL Chile
 
 Explore the repositories, scripts, and tools developed by the MapBiomas Chile team for analyzing and monitoring land use and environmental dynamics in Chile.
 
