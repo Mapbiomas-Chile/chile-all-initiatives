@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="280" src="https://github.com/user-attachments/assets/4714c289-c52a-4c01-8982-7a64e1b038db" />
-</p>
+<img src="https://github.com/user-attachments/assets/4714c289-c52a-4c01-8982-7a64e1b038db" width="200" align="left"/>
 
 # CL Chile
 
