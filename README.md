@@ -4,6 +4,8 @@
 
 Explore the repositories, scripts, and tools developed by the MapBiomas Chile team for analyzing and monitoring land use and environmental dynamics in Chile.
 
+
+
 ---
 
 ## 🔗 Project Resources
