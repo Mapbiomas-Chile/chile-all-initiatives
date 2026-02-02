@@ -35,7 +35,7 @@ Explore the repositories, scripts, and tools developed by the MapBiomas Chile te
 
 - [agriculture](./themes/agriculture) – Agriculture-related workflows  
 - [forest-plantation](./themes/forest-plantation) – Plantation-related workflows  
-- [urban](./themes/native-forest) – Native forest workflows  
+- [urban](https://github.com/Mapbiomas-Chile/MB-Chile-LULC-Col02/tree/ec5dfac072e39c513dc05dc59163f0527636fbb2/04-URBAN) – Native forest workflows  
 
 ---
 
